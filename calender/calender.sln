@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "calender", "calender\", "{9F6DF5B6-8AC8-4AD2-91CC-5C1C5E1BA065}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53146"
+		Debug.AspNetCompiler.PhysicalPath = "calender\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53146\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53146"
+		Release.AspNetCompiler.PhysicalPath = "calender\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53146\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53146"
+		SlnRelativePath = "calender\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F6DF5B6-8AC8-4AD2-91CC-5C1C5E1BA065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F6DF5B6-8AC8-4AD2-91CC-5C1C5E1BA065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {966E0C66-EC04-44A1-B126-89B3146E0957}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\Prasad\Interview_Practice\Interview_Practice\bin\Debug\net6.0\Interview_Practice.exe
+C:\Users\LENOVO\Desktop\Prasad\Interview_Practice\Interview_Practice\bin\Debug\net6.0\Interview_Practice.deps.json
+C:\Users\LENOVO\Desktop\Prasad\Interview_Practice\Interview_Practice\bin\Debug\net6.0\Interview_Practice.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Prasad\Interview_Practice\Interview_Practice\bin\Debug\net6.0\Interview_Practice.dll
+C:\Users\LENOVO\Desktop\Prasad\Interview_Practice\Interview_Practice\bin\Debug\net6.0\Interview_Practice.pdb
+C:\Users\LENOVO\Desktop\Prasad\Interview_Practice\Interview_Practice\obj\Debug\net6.0\Interview_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Prasad\Interview_Practice\Interview_Practice\obj\Debug\net6.0\Interview_Practice.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Prasad\Interview_Practice\Interview_Practice\obj\Debug\net6.0\Interview_Practice.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Prasad\Interview_Practice\Interview_Practice\obj\Debug\net6.0\Interview_Practice.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Prasad\Interview_Practice\Interview_Practice\obj\Debug\net6.0\Interview_Practice.dll
+C:\Users\LENOVO\Desktop\Prasad\Interview_Practice\Interview_Practice\obj\Debug\net6.0\refint\Interview_Practice.dll
+C:\Users\LENOVO\Desktop\Prasad\Interview_Practice\Interview_Practice\obj\Debug\net6.0\Interview_Practice.pdb
+C:\Users\LENOVO\Desktop\Prasad\Interview_Practice\Interview_Practice\obj\Debug\net6.0\Interview_Practice.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Prasad\Interview_Practice\Interview_Practice\obj\Debug\net6.0\ref\Interview_Practice.dll

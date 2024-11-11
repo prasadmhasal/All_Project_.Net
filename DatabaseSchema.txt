@@ -1,0 +1,347 @@
+Forms
+ 
+
+
+Based on the document provided, here’s a draft of the database schema for the School Management System. The schema includes tables for managing various aspects of the system, including user information, student data, teacher details, academic records, financial transactions, and more.
+
+### 1. User Table
+Stores user credentials and roles.
+
+| Field Name          | Data Type        | Description                          |
+|---------------------|-------------------|--------------------------------------|
+| `user_id`           | INT (PK, AI)      | Unique identifier for the user       |
+| `username`          | VARCHAR(50)       | User login name                      |
+| `password_hash`     | VARCHAR(255)      | Hashed password                      |
+| `role`              | ENUM              | User role (e.g., Student, Teacher)   |
+| `created_at`        | TIMESTAMP         | Account creation timestamp           |
+| `updated_at`        | TIMESTAMP         | Last update ti
+
+mestamp                |
+
+### 2. Student Table
+Stores student information.
+
+| Field Name          | Data Type        | Description                          |
+|---------------------|-------------------|--------------------------------------|
+| `student_id`        | INT (PK, AI)      | Unique identifier for the student    |
+| `first_name`        | VARCHAR(50)       | Student’s first name                 |
+| `last_name`         | VARCHAR(50)       | Student’s last name                  |
+| `date_of_birth`     | DATE              | Student’s date of birth              |
+| `gender`            | ENUM              | Student’s gender                     |
+| `address`           | TEXT              | Student’s address                    |
+| `phone`             | VARCHAR(15)       | Student’s contact number             |
+| `email`             | VARCHAR(100)      | Student’s email address              |
+| `enrollment_date`   | DATE              | Date of enrollment                   |
+| `guardian_id`       | INT (FK)          | Reference to the Guardian (if any)   |
+
+### 3. Teacher Table
+Stores teacher information.
+
+| Field Name          | Data Type        | Description                          |
+|---------------------|-------------------|--------------------------------------|
+| `teacher_id`        | INT (PK, AI)      | Unique identifier for the teacher    |
+| `first_name`        | VARCHAR(50)       | Teacher’s first name                 |
+| `last_name`         | VARCHAR(50)       | Teacher’s last name                  |
+| `qualification`     | VARCHAR(100)      | Teacher’s qualifications             |
+| `subjects`          | TEXT              | Subjects taught                      |
+| `email`             | VARCHAR(100)      | Teacher’s email address              |
+| `phone`             | VARCHAR(15)       | Teacher’s contact number             |
+| `hire_date`         | DATE              | Date of hire                         |
+
+### 4. Parent/Guardian Table
+Stores guardian details.
+
+| Field Name          | Data Type        | Description                          |
+|---------------------|-------------------|--------------------------------------|
+| `guardian_id`       | INT (PK, AI)      | Unique identifier for the guardian   |
+| `first_name`        | VARCHAR(50)       | Guardian’s first name                |
+| `last_name`         | VARCHAR(50)       | Guardian’s last name                 |
+| `relationship`      | VARCHAR(50)       | Relationship to student              |
+| `phone`             | VARCHAR(15)       | Guardian’s contact number            |
+| `email`             | VARCHAR(100)      | Guardian’s email address             |
+| `address`           | TEXT              | Guardian’s address                   |
+
+### 5. Class Table
+Stores class information.
+
+| Field Name          | Data Type        | Description                          |
+|---------------------|-------------------|--------------------------------------|
+| `class_id`          | INT (PK, AI)      | Unique identifier for the class      |
+| `class_name`        | VARCHAR(50)       | Name of the class                    |
+| `grade`             | VARCHAR(10)       | Grade level of the class             |
+| `teacher_id`        | INT (FK)          | Reference to the teacher             |
+
+### 6. Enrollment Table
+Tracks student enrollments in classes.
+
+| Field Name          | Data Type        | Description                          |
+|---------------------|-------------------|--------------------------------------|
+| `enrollment_id`     | INT (PK, AI)      | Unique identifier for the enrollment |
+| `student_id`        | INT (FK)          | Reference to the student             |
+| `class_id`          | INT (FK)          | Reference to the class               |
+| `enrollment_date`   | DATE              | Date of enrollment                   |
+
+### 7. Attendance Table
+Records daily attendance.
+
+| Field Name          | Data Type        | Description                          |
+|---------------------|-------------------|--------------------------------------|
+| `attendance_id`     | INT (PK, AI)      | Unique identifier for the attendance |
+| `student_id`        | INT (FK)          | Reference to the student             |
+| `date`              | DATE              | Date of attendance                   |
+| `status`            | ENUM              | Attendance status (e.g., Present, Absent) |
+
+### 8. Performance Table
+Tracks academic performance.
+
+| Field Name          | Data Type        | Description                          |
+|---------------------|-------------------|--------------------------------------|
+| `performance_id`    | INT (PK, AI)      | Unique identifier for the performance record |
+| `student_id`        | INT (FK)          | Reference to the student             |
+| `class_id`          | INT (FK)          | Reference to the class               |
+| `subject`           | VARCHAR(50)       | Subject of evaluation                |
+| `grade`             | VARCHAR(5)        | Grade received                       |
+| `remarks`           | TEXT              | Additional remarks                   |
+
+### 9. Fee Table
+Manages fee structures and transactions.
+
+| Field Name          | Data Type        | Description                          |
+|---------------------|-------------------|--------------------------------------|
+| `fee_id`            | INT (PK, AI)      | Unique identifier for the fee        |
+| `student_id`        | INT (FK)          | Reference to the student             |
+| `amount`            | DECIMAL(10, 2)    | Fee amount                           |
+| `due_date`          | DATE              | Due date of the fee                  |
+| `paid_date`         | DATE              | Date when fee was paid               |
+| `status`            | ENUM              | Payment status (e.g., Paid, Unpaid)  |
+
+### 10. Library Table
+Manages library resources.
+
+| Field Name          | Data Type        | Description                          |
+|---------------------|-------------------|--------------------------------------|
+| `book_id`           | INT (PK, AI)      | Unique identifier for the book       |
+| `title`             | VARCHAR(255)      | Title of the book                    |
+| `author`            | VARCHAR(255)      | Author of the book                   |
+| `isbn`              | VARCHAR(20)       | ISBN number                          |
+| `publication_year`  | YEAR              | Year of publication                  |
+
+### 11. Inventory Table
+Tracks school inventory.
+
+| Field Name          | Data Type        | Description                          |
+|---------------------|-------------------|--------------------------------------|
+| `item_id`           | INT (PK, AI)      | Unique identifier for the item       |
+| `item_name`         | VARCHAR(100)      | Name of the item                     |
+| `quantity`          | INT               | Quantity in stock                    |
+| `category`          | VARCHAR(50)       | Category of the item                 |
+
+### 12. Transport Table
+Manages school transport.
+
+| Field Name          | Data Type        | Description                          |
+|---------------------|-------------------|--------------------------------------|
+| `vehicle_id`        | INT (PK, AI)      | Unique identifier for the vehicle    |
+| `vehicle_type`      | VARCHAR(50)       | Type of vehicle                      |
+| `registration_number` | VARCHAR(20)     | Registration number                  |
+| `route`             | VARCHAR(100)      | Transport route                      |
+
+### 13. Event Table
+Manages school events.
+
+| Field Name          | Data Type        | Description                          |
+|---------------------|-------------------|--------------------------------------|
+| `event_id`          | INT (PK, AI)      | Unique identifier for the event      |
+| `event_name`        | VARCHAR(100)      | Name of the event                    |
+| `event_date`        | DATE              | Date of the event                    |
+| `event_description` | TEXT              | Description of the event             |
+
+### 14. Payroll Table
+Manages teacher and staff payroll.
+
+| Field Name          | Data Type        | Description                          |
+|---------------------|-------------------|--------------------------------------|
+| `payroll_id`        | INT (PK, AI)      | Unique identifier for the payroll    |
+| `employee_id`       | INT (FK)          | Reference to the employee (teacher/staff) |
+| `salary`            | DECIMAL(10, 2)    | Salary amount                        |
+| `pay_date`          | DATE              | Date of payment                      |
+
+### 15. Messaging Table
+Stores internal messages.
+
+| Field Name          | Data Type        | Description                          |
+|---------------------|-------------------|--------------------------------------|
+| `message_id`        | INT (PK, AI)      | Unique identifier for the message    |
+| `sender_id`         | INT (FK)          | Reference to the sender              |
+| `receiver_id`       | INT (FK)          | Reference to the receiver            |
+| `message_body`      | TEXT              | Content of the message               |
+| `sent_at`           | TIMESTAMP        
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Creating a schema diagram to illustrate the relationships between the tables in your School Management System involves representing the tables as entities and defining how these entities relate to one another through their primary and foreign keys. Here’s a detailed breakdown of the schema diagram:
+
+### Schema Diagram Overview
+
+1. **Tables and Relationships**
+   - **User Table**: Central table for user credentials and roles.
+   - **Student Table**: Linked to User, Parent/Guardian, Enrollment, and Attendance.
+   - **Teacher Table**: Linked to User, Class, and Performance.
+   - **Parent/Guardian Table**: Linked to Student.
+   - **Class Table**: Linked to Teacher and Enrollment.
+   - **Enrollment Table**: Links Student and Class.
+   - **Attendance Table**: Linked to Student.
+   - **Performance Table**: Linked to Student and Class.
+   - **Fee Table**: Linked to Student.
+   - **Library Table**: Manages book details.
+   - **Inventory Table**: Manages school inventory.
+   - **Transport Table**: Manages school transport.
+   - **Event Table**: Manages school events.
+   - **Payroll Table**: Manages payroll for employees.
+   - **Messaging Table**: Manages internal communication.
+
+2. **Entity Relationships**
+   - **User Table**: 
+     - One-to-One with Student (via `student_id` in Student Table)
+     - One-to-One with Teacher (via `teacher_id` in Teacher Table)
+     - One-to-One with Parent/Guardian (via `guardian_id` in Parent/Guardian Table)
+
+   - **Student Table**:
+     - One-to-Many with Enrollment (one student can enroll in multiple classes)
+     - One-to-Many with Attendance (one student can have multiple attendance records)
+     - One-to-Many with Performance (one student can have multiple performance records)
+     - One-to-Many with Fee (one student can have multiple fee transactions)
+     - Many-to-One with Parent/Guardian (each student can have one guardian)
+
+   - **Teacher Table**:
+     - One-to-Many with Class (one teacher can teach multiple classes)
+     - One-to-Many with Performance (one teacher can have multiple performance evaluations)
+     - One-to-Many with Payroll (one teacher can have multiple payroll records)
+
+   - **Parent/Guardian Table**:
+     - One-to-Many with Student (one guardian can be associated with multiple students)
+
+   - **Class Table**:
+     - One-to-Many with Enrollment (one class can have multiple enrollments)
+     - One-to-Many with Performance (one class can have multiple performance records)
+     - Many-to-One with Teacher (each class is taught by one teacher)
+
+   - **Enrollment Table**:
+     - Many-to-One with Student (each enrollment record is linked to one student)
+     - Many-to-One with Class (each enrollment record is linked to one class)
+
+   - **Attendance Table**:
+     - Many-to-One with Student (each attendance record is linked to one student)
+
+   - **Performance Table**:
+     - Many-to-One with Student (each performance record is linked to one student)
+     - Many-to-One with Class (each performance record is linked to one class)
+
+   - **Fee Table**:
+     - Many-to-One with Student (each fee record is linked to one student)
+
+   - **Library Table**:
+     - No direct relationship with other tables in the schema (manages library resources independently)
+
+   - **Inventory Table**:
+     - No direct relationship with other tables in the schema (manages inventory independently)
+
+   - **Transport Table**:
+     - No direct relationship with other tables in the schema (manages transport independently)
+
+   - **Event Table**:
+     - No direct relationship with other tables in the schema (manages events independently)
+
+   - **Payroll Table**:
+     - Many-to-One with Teacher (each payroll record is linked to one teacher)
+     - Many-to-One with User (each payroll record is linked to one user)
+
+   - **Messaging Table**:
+     - Many-to-One with User (each message is linked to one sender and one receiver)
+
+### Schema Diagram
+To visualize this schema diagram, you’d typically use an Entity-Relationship Diagram (ERD) tool. Below is a textual representation of how you might structure this ERD:
+
+1. **User Table**
+   - `user_id` (PK)
+
+2. **Student Table**
+   - `student_id` (PK)
+   - `guardian_id` (FK)
+
+3. **Teacher Table**
+   - `teacher_id` (PK)
+
+4. **Parent/Guardian Table**
+   - `guardian_id` (PK)
+
+5. **Class Table**
+   - `class_id` (PK)
+   - `teacher_id` (FK)
+
+6. **Enrollment Table**
+   - `enrollment_id` (PK)
+   - `student_id` (FK)
+   - `class_id` (FK)
+
+7. **Attendance Table**
+   - `attendance_id` (PK)
+   - `student_id` (FK)
+
+8. **Performance Table**
+   - `performance_id` (PK)
+   - `student_id` (FK)
+   - `class_id` (FK)
+
+9. **Fee Table**
+   - `fee_id` (PK)
+   - `student_id` (FK)
+
+10. **Library Table**
+    - `book_id` (PK)
+
+11. **Inventory Table**
+    - `item_id` (PK)
+
+12. **Transport Table**
+    - `vehicle_id` (PK)
+
+13. **Event Table**
+    - `event_id` (PK)
+
+14. **Payroll Table**
+    - `payroll_id` (PK)
+    - `employee_id` (FK)
+
+15. **Messaging Table**
+    - `message_id` (PK)
+    - `sender_id` (FK)
+    - `receiver_id` (FK)
+
+### Visual Representation
+To create a visual ERD:
+
+1. **Draw Entities**: Represent each table as an entity (rectangle).
+2. **Define Relationships**: Draw lines between entities to show relationships. Use crow’s foot notation for cardinality (e.g., one-to-many).
+3. **Add Primary and Foreign Keys**: Indicate which fields are primary keys and which are foreign keys.
+
+Use an ERD tool like Lucidchart, Draw.io, or any other database design tool to input this information and generate a visual schema diagram.

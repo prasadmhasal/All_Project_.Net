@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Prasad\\FatechUsignApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE170001-4266-4CB8-8DB5-C79F995AD88D}|FatechUsignApi\\FatechUsignApi.csproj|c:\\users\\lenovo\\desktop\\prasad\\fatechusignapi\\fatechusignapi\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE170001-4266-4CB8-8DB5-C79F995AD88D}|FatechUsignApi\\FatechUsignApi.csproj|solutionrelative:fatechusignapi\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE170001-4266-4CB8-8DB5-C79F995AD88D}|FatechUsignApi\\FatechUsignApi.csproj|c:\\users\\lenovo\\desktop\\prasad\\fatechusignapi\\fatechusignapi\\views\\emp\\postemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE170001-4266-4CB8-8DB5-C79F995AD88D}|FatechUsignApi\\FatechUsignApi.csproj|solutionrelative:fatechusignapi\\views\\emp\\postemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE170001-4266-4CB8-8DB5-C79F995AD88D}|FatechUsignApi\\FatechUsignApi.csproj|c:\\users\\lenovo\\desktop\\prasad\\fatechusignapi\\fatechusignapi\\views\\emp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE170001-4266-4CB8-8DB5-C79F995AD88D}|FatechUsignApi\\FatechUsignApi.csproj|solutionrelative:fatechusignapi\\views\\emp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE170001-4266-4CB8-8DB5-C79F995AD88D}|FatechUsignApi\\FatechUsignApi.csproj|c:\\users\\lenovo\\desktop\\prasad\\fatechusignapi\\fatechusignapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE170001-4266-4CB8-8DB5-C79F995AD88D}|FatechUsignApi\\FatechUsignApi.csproj|solutionrelative:fatechusignapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE170001-4266-4CB8-8DB5-C79F995AD88D}|FatechUsignApi\\FatechUsignApi.csproj|c:\\users\\lenovo\\desktop\\prasad\\fatechusignapi\\fatechusignapi\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE170001-4266-4CB8-8DB5-C79F995AD88D}|FatechUsignApi\\FatechUsignApi.csproj|solutionrelative:fatechusignapi\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1363,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostEmp.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\FatechUsignApi\\FatechUsignApi\\Views\\Emp\\PostEmp.cshtml",
+              "RelativeDocumentMoniker": "FatechUsignApi\\Views\\Emp\\PostEmp.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\FatechUsignApi\\FatechUsignApi\\Views\\Emp\\PostEmp.cshtml",
+              "RelativeToolTip": "FatechUsignApi\\Views\\Emp\\PostEmp.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T10:45:11.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\FatechUsignApi\\FatechUsignApi\\Program.cs",
+              "RelativeDocumentMoniker": "FatechUsignApi\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\FatechUsignApi\\FatechUsignApi\\Program.cs",
+              "RelativeToolTip": "FatechUsignApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:40:17.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\FatechUsignApi\\FatechUsignApi\\Views\\Emp\\Index.cshtml",
+              "RelativeDocumentMoniker": "FatechUsignApi\\Views\\Emp\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\FatechUsignApi\\FatechUsignApi\\Views\\Emp\\Index.cshtml",
+              "RelativeToolTip": "FatechUsignApi\\Views\\Emp\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T10:37:59.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\FatechUsignApi\\FatechUsignApi\\Controllers\\EmpController.cs",
+              "RelativeDocumentMoniker": "FatechUsignApi\\Controllers\\EmpController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\FatechUsignApi\\FatechUsignApi\\Controllers\\EmpController.cs",
+              "RelativeToolTip": "FatechUsignApi\\Controllers\\EmpController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowEQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:09:09.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\FatechUsignApi\\FatechUsignApi\\Models\\Emp.cs",
+              "RelativeDocumentMoniker": "FatechUsignApi\\Models\\Emp.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\FatechUsignApi\\FatechUsignApi\\Models\\Emp.cs",
+              "RelativeToolTip": "FatechUsignApi\\Models\\Emp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:08:04.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 34,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

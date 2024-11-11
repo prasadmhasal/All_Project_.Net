@@ -1,0 +1,110 @@
+<!-- <script>
+    var name , id ;
+    name = prompt("Enter the name ");
+    id = prompt ("enter the id ");
+
+     document.write(`Name is ${name } and id ${id}`)
+</script> -->
+
+
+<h1> Calculater</h1>
+<label>Enter the Value </label>
+<br>
+<input type="text" name="" id="firstvalue">
+<br>
+<label>Second Value</label>
+<br>
+<input type="text" id="secondvalue">
+
+<select name="" id="opt">
+    <option value="+">add</option>
+    <option value="-">sub</option>
+    <option value="*">mul</option>
+    <option value="/">div</option>
+</select>
+
+<input type="submit" value="submit" onclick="cal();">
+
+<span id="result"></span>
+
+<script>
+    function cal()
+    {
+        var first , second , opt , Result
+        first = parseInt(document.getElementById("firstvalue").value);
+        second = parseInt(document.getElementById("secondvalue").value);
+        opt = document.getElementById("opt").value;
+
+    if (opt == "+")
+    {      
+        Result = first + second 
+    }
+    if (opt == "-")
+    {      
+        Result = first - second 
+    }
+    if (opt == "*")
+    {      
+        Result = first * second 
+    }
+    if (opt == "/")
+    {      
+        Result = first / second 
+    }
+    document.getElementById('result').innerHTML=Result;
+
+    }
+</script>
+
+password : <input type="pass" id="pass" onkeyup="password()">
+strength : <span id="mymsg"></span>
+
+<script>
+    function password()
+    {
+        var  str , len , msg;
+        str = document.getElementById("pass").value;
+        len = str.length;
+        if(len<5){
+            msg="weak password";
+            document.querySelector('#pass').style.borderColor="red";
+        }
+        document.getElementById("mymsg").innerHTML=msg;
+    }
+</script>
+
+<marquee behavior="" direction="right" scrollamount="10" onmouseover="stop()" onmouseout="start()"><img src="d.gif"></marquee>
+
+<select id="choice" onchange="change()">
+    <option value="Name">Name</option>
+    <option value="contact">Conatact</option>
+</select>
+
+<br>
+<input type="text" class="myname" style="display:block" id="name" placeholder="name ">
+<input type="text" class="firstname" style="display:block" id="firstname" placeholder="name">
+<input type="text" class="contact" style="display:block" id="conatct" placeholder="conatct">
+
+<script>
+    function change(){
+        var choice 
+        choice = document.getElementById("choice").value ;
+
+    if (choice == "Name")
+    {
+        document.getElementById("conatct").style.display="none";
+        document.getElementById("name").style.display="block";
+        document.getElementById("firstname").style.display="block";
+    }
+    if(choice == "contact")
+    {
+        document.getElementById("conatct").style.display="block";
+        document.getElementById("name").style.display="none";
+        document.getElementById("firstname").style.display="none";
+    }
+       
+    }
+</script>
+
+
+

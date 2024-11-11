@@ -1,0 +1,30 @@
+﻿@model List<Emp>
+
+<a asp-controller="Emp" asp-action="PostEmp"><input type="button" class="btn btn-info" value="Add Emp" /></a>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Name</th>
+            <th scope="col">Dept</th>
+            <th scope="col">Salary</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var a in Model)
+        {
+            
+        <tr>
+            <th scope="row">@a.id</th>
+            <td>@a.name</td>
+            <td>@a.dept</td>
+            <td>@a.salary</td>
+            <td>
+                    <a asp-controller="Emp" asp-action="Delete" asp-route-id="@a.id"><input type="button" class="btn btn-info" value="delete" /></a>
+
+            </td>
+        </tr>
+        }
+        
+    </tbody>
+</table>

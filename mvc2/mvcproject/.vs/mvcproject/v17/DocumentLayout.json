@@ -1,0 +1,536 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|c:\\users\\lenovo\\desktop\\prasad\\mvc2\\mvcproject\\mvcproject\\controllers\\curdcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|solutionrelative:mvcproject\\controllers\\curdcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\views\\curd\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|solutionrelative:mvcproject\\views\\curd\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\views\\curd\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|solutionrelative:mvcproject\\views\\curd\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\views\\curd\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|solutionrelative:mvcproject\\views\\curd\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|solutionrelative:mvcproject\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\views\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|solutionrelative:mvcproject\\views\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\views\\curd\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|solutionrelative:mvcproject\\views\\curd\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|solutionrelative:mvcproject\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|solutionrelative:mvcproject\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|solutionrelative:mvcproject\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|solutionrelative:mvcproject\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\views\\empolyee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|solutionrelative:mvcproject\\views\\empolyee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\views\\info\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|solutionrelative:mvcproject\\views\\info\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|solutionrelative:mvcproject\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|solutionrelative:mvcproject\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\controllers\\empolyeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|solutionrelative:mvcproject\\controllers\\empolyeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\models\\info.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|solutionrelative:mvcproject\\models\\info.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\controllers\\infocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|solutionrelative:mvcproject\\controllers\\infocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\models\\info.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|solutionrelative:mvcproject\\models\\info.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|solutionrelative:mvcproject\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|solutionrelative:mvcproject\\models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\models\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|solutionrelative:mvcproject\\models\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\models\\student.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|solutionrelative:mvcproject\\models\\student.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\models\\student.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|solutionrelative:mvcproject\\models\\student.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|solutionrelative:mvcproject\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\models\\student.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|solutionrelative:mvcproject\\models\\student.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\models\\student1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|solutionrelative:mvcproject\\models\\student1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|solutionrelative:mvcproject\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\models\\empolyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9766D9C-33CA-41DD-9F90-88FBB60FDBFA}|mvcproject\\mvcproject.csproj|solutionrelative:mvcproject\\models\\empolyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurdController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Controllers\\CurdController.cs",
+              "RelativeDocumentMoniker": "mvcproject\\Controllers\\CurdController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Controllers\\CurdController.cs",
+              "RelativeToolTip": "mvcproject\\Controllers\\CurdController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T10:09:34.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "mvcproject\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "mvcproject\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T12:05:07.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Views\\Curd\\Delete.cshtml",
+              "RelativeDocumentMoniker": "mvcproject\\Views\\Curd\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Views\\Curd\\Delete.cshtml",
+              "RelativeToolTip": "mvcproject\\Views\\Curd\\Delete.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T11:43:18.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Views\\Curd\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvcproject\\Views\\Curd\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Views\\Curd\\Index.cshtml",
+              "RelativeToolTip": "mvcproject\\Views\\Curd\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T10:09:59.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvcproject\\Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "mvcproject\\Views\\Students\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T10:05:33.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "mvcproject\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "mvcproject\\Views\\Students\\Edit.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T09:59:17.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "mvcproject\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "mvcproject\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwHAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T08:59:31.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Views\\Curd\\Details.cshtml",
+              "RelativeDocumentMoniker": "mvcproject\\Views\\Curd\\Details.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Views\\Curd\\Details.cshtml",
+              "RelativeToolTip": "mvcproject\\Views\\Curd\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T10:34:09.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Views\\Students\\Details.cshtml",
+              "RelativeDocumentMoniker": "mvcproject\\Views\\Students\\Details.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Views\\Students\\Details.cshtml",
+              "RelativeToolTip": "mvcproject\\Views\\Students\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T09:59:16.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Views\\Empolyee\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvcproject\\Views\\Empolyee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Views\\Empolyee\\Index.cshtml",
+              "RelativeToolTip": "mvcproject\\Views\\Empolyee\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T05:12:33.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Views\\Students\\Delete.cshtml",
+              "RelativeDocumentMoniker": "mvcproject\\Views\\Students\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Views\\Students\\Delete.cshtml",
+              "RelativeToolTip": "mvcproject\\Views\\Students\\Delete.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAswDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T10:34:23.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Views\\Curd\\Edit.cshtml",
+              "RelativeDocumentMoniker": "mvcproject\\Views\\Curd\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Views\\Curd\\Edit.cshtml",
+              "RelativeToolTip": "mvcproject\\Views\\Curd\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T11:06:26.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvcproject\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "mvcproject\\Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T06:17:04.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "mvcproject\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "mvcproject\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwBIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T04:43:09.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmpolyeeController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Controllers\\EmpolyeeController.cs",
+              "RelativeDocumentMoniker": "mvcproject\\Controllers\\EmpolyeeController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Controllers\\EmpolyeeController.cs",
+              "RelativeToolTip": "mvcproject\\Controllers\\EmpolyeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T04:39:53.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "info.Context.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Models\\info.Context.cs",
+              "RelativeDocumentMoniker": "mvcproject\\Models\\info.Context.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Models\\info.Context.cs",
+              "RelativeToolTip": "mvcproject\\Models\\info.Context.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwBIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T07:06:53.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Views\\Info\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvcproject\\Views\\Info\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Views\\Info\\Index.cshtml",
+              "RelativeToolTip": "mvcproject\\Views\\Info\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T07:12:26.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InfoController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Controllers\\InfoController.cs",
+              "RelativeDocumentMoniker": "mvcproject\\Controllers\\InfoController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Controllers\\InfoController.cs",
+              "RelativeToolTip": "mvcproject\\Controllers\\InfoController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T07:06:42.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "info.edmx",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Models\\info.edmx",
+              "RelativeDocumentMoniker": "mvcproject\\Models\\info.edmx",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Models\\info.edmx",
+              "RelativeToolTip": "mvcproject\\Models\\info.edmx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-16T06:41:17.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "mvcproject\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "mvcproject\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T06:14:45.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Model1.Context.tt",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Models\\Model1.Context.tt",
+              "RelativeDocumentMoniker": "mvcproject\\Models\\Model1.Context.tt",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Models\\Model1.Context.tt",
+              "RelativeToolTip": "mvcproject\\Models\\Model1.Context.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-16T06:29:01.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Models\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "mvcproject\\Models\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Models\\Model1.Context.cs",
+              "RelativeToolTip": "mvcproject\\Models\\Model1.Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T06:00:20.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Student.Context.tt",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Models\\Student.Context.tt",
+              "RelativeDocumentMoniker": "mvcproject\\Models\\Student.Context.tt",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Models\\Student.Context.tt",
+              "RelativeToolTip": "mvcproject\\Models\\Student.Context.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-16T06:21:34.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "mvcproject\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Models\\Student.cs",
+              "RelativeToolTip": "mvcproject\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T06:14:57.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Student.Context.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Models\\Student.Context.cs",
+              "RelativeDocumentMoniker": "mvcproject\\Models\\Student.Context.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Models\\Student.Context.cs",
+              "RelativeToolTip": "mvcproject\\Models\\Student.Context.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwBsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T06:15:06.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Student.edmx",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Models\\Student.edmx",
+              "RelativeDocumentMoniker": "mvcproject\\Models\\Student.edmx",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Models\\Student.edmx",
+              "RelativeToolTip": "mvcproject\\Models\\Student.edmx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-16T06:14:07.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Student1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Models\\Student1.cs",
+              "RelativeDocumentMoniker": "mvcproject\\Models\\Student1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Models\\Student1.cs",
+              "RelativeToolTip": "mvcproject\\Models\\Student1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T06:15:02.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "empolyee.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Models\\empolyee.cs",
+              "RelativeDocumentMoniker": "mvcproject\\Models\\empolyee.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Models\\empolyee.cs",
+              "RelativeToolTip": "mvcproject\\Models\\empolyee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T06:00:23.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Model1.edmx",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "mvcproject\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\mvc2\\mvcproject\\mvcproject\\Models\\Model1.edmx",
+              "RelativeToolTip": "mvcproject\\Models\\Model1.edmx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-16T06:00:02.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

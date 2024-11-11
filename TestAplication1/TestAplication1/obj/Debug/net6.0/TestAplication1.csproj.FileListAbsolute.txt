@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\Prasad\TestAplication1\TestAplication1\bin\Debug\net6.0\TestAplication1.exe
+C:\Users\LENOVO\Desktop\Prasad\TestAplication1\TestAplication1\bin\Debug\net6.0\TestAplication1.deps.json
+C:\Users\LENOVO\Desktop\Prasad\TestAplication1\TestAplication1\bin\Debug\net6.0\TestAplication1.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Prasad\TestAplication1\TestAplication1\bin\Debug\net6.0\TestAplication1.dll
+C:\Users\LENOVO\Desktop\Prasad\TestAplication1\TestAplication1\bin\Debug\net6.0\TestAplication1.pdb
+C:\Users\LENOVO\Desktop\Prasad\TestAplication1\TestAplication1\obj\Debug\net6.0\TestAplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Prasad\TestAplication1\TestAplication1\obj\Debug\net6.0\TestAplication1.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Prasad\TestAplication1\TestAplication1\obj\Debug\net6.0\TestAplication1.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Prasad\TestAplication1\TestAplication1\obj\Debug\net6.0\TestAplication1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Prasad\TestAplication1\TestAplication1\obj\Debug\net6.0\TestAplication1.dll
+C:\Users\LENOVO\Desktop\Prasad\TestAplication1\TestAplication1\obj\Debug\net6.0\refint\TestAplication1.dll
+C:\Users\LENOVO\Desktop\Prasad\TestAplication1\TestAplication1\obj\Debug\net6.0\TestAplication1.pdb
+C:\Users\LENOVO\Desktop\Prasad\TestAplication1\TestAplication1\obj\Debug\net6.0\TestAplication1.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Prasad\TestAplication1\TestAplication1\obj\Debug\net6.0\ref\TestAplication1.dll

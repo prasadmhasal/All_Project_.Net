@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/sweetalert2@11.1.2/dist/sweetalert2.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</head>
+<body>
+    <input type="text" id="titleInput" placeholder="Enter title">
+<input type="text" id="messageInput" placeholder="Enter message">
+<select id="iconSelect">
+    <option value="success">Success</option>
+    <option value="error">Error</option>
+    <option value="warning">Warning</option>
+    <option value="info">Info</option>
+</select>
+    <input type="button" value="Show Alert" onclick="ShowSweetAlert()">
+
+    <script>
+        function ShowSweetAlert() {
+            var title = document.getElementById('titleInput').value;
+            var message = document.getElementById('messageInput').value;
+            var icon = document.getElementById('iconSelect').value;
+    
+            Swal.fire({
+                title: title,
+                text: message,
+                icon: icon
+            });
+        }
+        </script>
+</body>
+</html>

@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Prasad\\test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D30EA7CB-E2B5-4859-AC49-F568C3FEC60F}|test\\test.csproj|c:\\users\\lenovo\\desktop\\prasad\\test\\test\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30EA7CB-E2B5-4859-AC49-F568C3FEC60F}|test\\test.csproj|solutionrelative:test\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30EA7CB-E2B5-4859-AC49-F568C3FEC60F}|test\\test.csproj|c:\\users\\lenovo\\desktop\\prasad\\test\\test\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D30EA7CB-E2B5-4859-AC49-F568C3FEC60F}|test\\test.csproj|solutionrelative:test\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30EA7CB-E2B5-4859-AC49-F568C3FEC60F}|test\\test.csproj|c:\\users\\lenovo\\desktop\\prasad\\test\\test\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30EA7CB-E2B5-4859-AC49-F568C3FEC60F}|test\\test.csproj|solutionrelative:test\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30EA7CB-E2B5-4859-AC49-F568C3FEC60F}|test\\test.csproj|c:\\users\\lenovo\\desktop\\prasad\\test\\test\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30EA7CB-E2B5-4859-AC49-F568C3FEC60F}|test\\test.csproj|solutionrelative:test\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30EA7CB-E2B5-4859-AC49-F568C3FEC60F}|test\\test.csproj|c:\\users\\lenovo\\desktop\\prasad\\test\\test\\wwwroot\\ajax\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D30EA7CB-E2B5-4859-AC49-F568C3FEC60F}|test\\test.csproj|solutionrelative:test\\wwwroot\\ajax\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30EA7CB-E2B5-4859-AC49-F568C3FEC60F}|test\\test.csproj|c:\\users\\lenovo\\desktop\\prasad\\test\\test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D30EA7CB-E2B5-4859-AC49-F568C3FEC60F}|test\\test.csproj|solutionrelative:test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30EA7CB-E2B5-4859-AC49-F568C3FEC60F}|test\\test.csproj|c:\\users\\lenovo\\desktop\\prasad\\test\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30EA7CB-E2B5-4859-AC49-F568C3FEC60F}|test\\test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 596,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JavaScript.js",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\test\\test\\wwwroot\\Ajax\\JavaScript.js",
+              "RelativeDocumentMoniker": "test\\wwwroot\\Ajax\\JavaScript.js",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\test\\test\\wwwroot\\Ajax\\JavaScript.js",
+              "RelativeToolTip": "test\\wwwroot\\Ajax\\JavaScript.js",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-05T09:35:06.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\test\\test\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "test\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\test\\test\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "test\\Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAACwAAAAAAAAAAADwvzwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T09:06:54.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\test\\test\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "test\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\test\\test\\Models\\Student.cs",
+              "RelativeToolTip": "test\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:04:37.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\test\\test\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "test\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\test\\test\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "test\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwCsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:03:23.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\test\\test\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "test\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\test\\test\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "test\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:59:06.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\test\\test\\Program.cs",
+              "RelativeDocumentMoniker": "test\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\test\\test\\Program.cs",
+              "RelativeToolTip": "test\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:52:20.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\test\\test\\appsettings.json",
+              "RelativeDocumentMoniker": "test\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\test\\test\\appsettings.json",
+              "RelativeToolTip": "test\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T08:51:42.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0A0560-2F11-442F-A548-C8B416BD3BF1}|login\\login.csproj|c:\\users\\lenovo\\desktop\\prasad\\login\\login\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2F0A0560-2F11-442F-A548-C8B416BD3BF1}|login\\login.csproj|solutionrelative:login\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0A0560-2F11-442F-A548-C8B416BD3BF1}|login\\login.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\user.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0A0560-2F11-442F-A548-C8B416BD3BF1}|login\\login.csproj|solutionrelative:login\\user.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0A0560-2F11-442F-A548-C8B416BD3BF1}|login\\login.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0A0560-2F11-442F-A548-C8B416BD3BF1}|login\\login.csproj|solutionrelative:login\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0A0560-2F11-442F-A548-C8B416BD3BF1}|login\\login.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\user.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{2F0A0560-2F11-442F-A548-C8B416BD3BF1}|login\\login.csproj|solutionrelative:login\\user.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0A0560-2F11-442F-A548-C8B416BD3BF1}|login\\login.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\allproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2F0A0560-2F11-442F-A548-C8B416BD3BF1}|login\\login.csproj|solutionrelative:login\\allproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0A0560-2F11-442F-A548-C8B416BD3BF1}|login\\login.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\adminhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2F0A0560-2F11-442F-A548-C8B416BD3BF1}|login\\login.csproj|solutionrelative:login\\adminhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0A0560-2F11-442F-A548-C8B416BD3BF1}|login\\login.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\allproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0A0560-2F11-442F-A548-C8B416BD3BF1}|login\\login.csproj|solutionrelative:login\\allproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0A0560-2F11-442F-A548-C8B416BD3BF1}|login\\login.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\addproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0A0560-2F11-442F-A548-C8B416BD3BF1}|login\\login.csproj|solutionrelative:login\\addproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0A0560-2F11-442F-A548-C8B416BD3BF1}|login\\login.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\addproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2F0A0560-2F11-442F-A548-C8B416BD3BF1}|login\\login.csproj|solutionrelative:login\\addproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0A0560-2F11-442F-A548-C8B416BD3BF1}|login\\login.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{2F0A0560-2F11-442F-A548-C8B416BD3BF1}|login\\login.csproj|solutionrelative:login\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0A0560-2F11-442F-A548-C8B416BD3BF1}|login\\login.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\userhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2F0A0560-2F11-442F-A548-C8B416BD3BF1}|login\\login.csproj|solutionrelative:login\\userhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0A0560-2F11-442F-A548-C8B416BD3BF1}|login\\login.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\admin.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0A0560-2F11-442F-A548-C8B416BD3BF1}|login\\login.csproj|solutionrelative:login\\admin.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0A0560-2F11-442F-A548-C8B416BD3BF1}|login\\login.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2F0A0560-2F11-442F-A548-C8B416BD3BF1}|login\\login.csproj|solutionrelative:login\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0A0560-2F11-442F-A548-C8B416BD3BF1}|login\\login.csproj|C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0A0560-2F11-442F-A548-C8B416BD3BF1}|login\\login.csproj|solutionrelative:login\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AllProduct.aspx",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\AllProduct.aspx",
+              "RelativeDocumentMoniker": "login\\AllProduct.aspx",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\AllProduct.aspx",
+              "RelativeToolTip": "login\\AllProduct.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-28T11:03:23.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.Master",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\User.Master",
+              "RelativeDocumentMoniker": "login\\User.Master",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\User.Master",
+              "RelativeToolTip": "login\\User.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-22T10:45:22.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminHome.aspx",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\AdminHome.aspx",
+              "RelativeDocumentMoniker": "login\\AdminHome.aspx",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\AdminHome.aspx",
+              "RelativeToolTip": "login\\AdminHome.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-22T10:49:06.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.Master.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\User.Master.cs",
+              "RelativeDocumentMoniker": "login\\User.Master.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\User.Master.cs",
+              "RelativeToolTip": "login\\User.Master.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T11:21:35.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\login.aspx.cs",
+              "RelativeDocumentMoniker": "login\\login.aspx.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\login.aspx.cs",
+              "RelativeToolTip": "login\\login.aspx.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwDsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T09:32:50.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.aspx",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\login.aspx",
+              "RelativeDocumentMoniker": "login\\login.aspx",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\login.aspx",
+              "RelativeToolTip": "login\\login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-22T09:07:43.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AllProduct.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\AllProduct.aspx.cs",
+              "RelativeDocumentMoniker": "login\\AllProduct.aspx.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\AllProduct.aspx.cs",
+              "RelativeToolTip": "login\\AllProduct.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T11:06:05.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddProduct.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\AddProduct.aspx.cs",
+              "RelativeDocumentMoniker": "login\\AddProduct.aspx.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\AddProduct.aspx.cs",
+              "RelativeToolTip": "login\\AddProduct.aspx.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T10:33:11.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Admin.Master.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\Admin.Master.cs",
+              "RelativeDocumentMoniker": "login\\Admin.Master.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\Admin.Master.cs",
+              "RelativeToolTip": "login\\Admin.Master.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T11:20:03.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddProduct.aspx",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\AddProduct.aspx",
+              "RelativeDocumentMoniker": "login\\AddProduct.aspx",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\AddProduct.aspx",
+              "RelativeToolTip": "login\\AddProduct.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-22T10:49:46.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "login.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\login.aspx.designer.cs",
+              "RelativeDocumentMoniker": "login\\login.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\login.aspx.designer.cs",
+              "RelativeToolTip": "login\\login.aspx.designer.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T10:55:59.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Admin.Master",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\Admin.Master",
+              "RelativeDocumentMoniker": "login\\Admin.Master",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\Admin.Master",
+              "RelativeToolTip": "login\\Admin.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-22T10:41:07.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserHome.aspx",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\UserHome.aspx",
+              "RelativeDocumentMoniker": "login\\UserHome.aspx",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\UserHome.aspx",
+              "RelativeToolTip": "login\\UserHome.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-22T10:50:53.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\Web.config",
+              "RelativeDocumentMoniker": "login\\Web.config",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Prasad\\login\\login\\Web.config",
+              "RelativeToolTip": "login\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-22T09:23:08Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

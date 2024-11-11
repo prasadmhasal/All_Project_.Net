@@ -1,0 +1,123 @@
+<select id="choice" onchange="show()" >
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+</select>
+
+
+<div id="display">
+
+</div>
+
+
+
+
+<!-- <div id="f2" >
+    <p>Q1 . what is your name</p>
+    <p> a) abc </p>
+    <p> b) gbc </p>
+    <p> c) prasad </p>
+    <p> d) usjs </p>
+    <select id="fans">
+        <option value="abc">abc</option>
+        <option value="gbc">gbc</option>
+        <option value="prasad">prasad</option>
+        <option value="usjs">usjs</option>
+    </select>
+</div>
+
+<div id="f3" >
+    <p>Q1 . what is your name</p>
+    <p> a) abc </p>
+    <p> b) gbc </p>
+    <p> c) prasad </p>
+    <p> d) usjs </p>
+    <select id="fans">
+        <option value="abc">abc</option>
+        <option value="gbc">gbc</option>
+        <option value="prasad">prasad</option>
+        <option value="usjs">usjs</option>
+    </select>
+</div>
+<div id="f4" >
+    <p>Q1 . what is your name</p>
+    <p> a) abc </p>
+    <p> b) gbc </p>
+    <p> c) prasad </p>
+    <p> d) usjs </p>
+    <select id="fans">
+        <option value="abc">abc</option>
+        <option value="gbc">gbc</option>
+        <option value="prasad">prasad</option>
+        <option value="usjs">usjs</option>
+    </select>
+</div>
+<div id="f5" >
+    <p>Q1 . what is your name</p>
+    <p> a) abc </p>
+    <p> b) gbc </p>
+    <p> c) prasad </p>
+    <p> d) usjs </p>
+    <select id="fans">
+        <option value="abc">abc</option>
+        <option value="gbc">gbc</option>
+        <option value="prasad">prasad</option>
+        <option value="usjs">usjs</option>
+    </select>
+</div> -->
+
+<script>
+    function show()
+    {
+        var select
+        select = parseInt(document.getElementById("choice").value);
+        document.getElementById("display").innerHTML="";
+        for(let i = 1; i<=select;i++)
+        {
+            document.getElementById("display").innerHTML+='<div id="f1" ><p>Q1 . what is your name</p><p> a) abc </p><p> b) gbc </p><p> c) prasad </p><p> d) usjs </p><select id="fans"><option value="abc">abc</option><option value="gbc">gbc</option><option value="prasad">prasad</option><option value="usjs">usjs</option></select></div>'
+            
+        }
+     
+    // if(select == "1")
+    // {
+    //     document.getElementById("f1").style.display="block";
+    //     document.getElementById("f2").style.display="none";
+    //     document.getElementById("f3").style.display="none";
+    //     document.getElementById("f4").style.display="none";
+    //     document.getElementById("f5").style.display="none";
+    // }
+    // if(select == "2")
+    // {
+    //     document.getElementById("f1").style.display="block";
+    //     document.getElementById("f2").style.display="block";
+    //     document.getElementById("f3").style.display="none";
+    //     document.getElementById("f4").style.display="none";
+    //     document.getElementById("f5").style.display="none";
+    // }
+    // if(select == "3")
+    // {
+    //     document.getElementById("f1").style.display="block";
+    //     document.getElementById("f2").style.display="block";
+    //     document.getElementById("f3").style.display="block";
+    //     document.getElementById("f4").style.display="none";
+    //     document.getElementById("f5").style.display="none";
+    // }
+    // if(select == "4")
+    // {
+    //     document.getElementById("f1").style.display="block";
+    //     document.getElementById("f2").style.display="block";
+    //     document.getElementById("f3").style.display="block"
+    //     document.getElementById("f4").style.display="block"
+    //     document.getElementById("f5").style.display="none"
+    // }
+    // if(select == "5")
+    // {
+    //     document.getElementById("f1").style.display="block";
+    //     document.getElementById("f2").style.display="block";
+    //     document.getElementById("f3").style.display="block";
+    //     document.getElementById("f4").style.display="block";
+    //     document.getElementById("f5").style.display="block";
+    // }
+    }
+</script>
